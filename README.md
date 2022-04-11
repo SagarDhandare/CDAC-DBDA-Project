@@ -13,3 +13,17 @@ A Brain tumor is considered as one of the aggressive diseases, among children an
 
 ‣ [Brain Tumor Detection (2759 Images)](https://www.kaggle.com/datasets/abhranta/brain-tumor-detection-mri)
 
+## Technology used
+- Python
+- Machine Learning
+- Deep Learning
+- Few Shot Learning
+- Optimization
+- Optuna
+- Raytune
+- Scikit-Optimize
+- Mahotas
+- Jupyter Notebook
+- Google Colab
+
+
