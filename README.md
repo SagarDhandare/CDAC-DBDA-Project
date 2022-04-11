@@ -9,6 +9,7 @@ A Brain tumor is considered as one of the aggressive diseases, among children an
 
  
 ## Dataset
-[Brain Tumor Detection (250 Images)](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
-[Brain Tumor Detection (2759 Images)](https://www.kaggle.com/datasets/abhranta/brain-tumor-detection-mri)
+‣ [Brain Tumor Detection (250 Images)](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
+
+‣ [Brain Tumor Detection (2759 Images)](https://www.kaggle.com/datasets/abhranta/brain-tumor-detection-mri)
 
