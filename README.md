@@ -1,4 +1,4 @@
-# CDAC-DBDA-Project ❤
+# CDAC-DBDA-Project
 ## Project Name: Automatic Optimal N-Shot learning for Brain Tumor Detection
 This repository consists of all the files that are required for our project (Automatic Optimal N-Shot learning for Brain Tumor Detection)
 
