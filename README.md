@@ -6,8 +6,6 @@ A Brain tumor is considered as one of the aggressive diseases, among children an
 
 <img src="https://raw.githubusercontent.com/SagarDhandare/CDAC-DBDA-Project/main/Images/bt0.png">
 
-
- 
 ## Dataset
 ‣ [Brain Tumor Detection (250 Images)](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 
@@ -25,6 +23,11 @@ A Brain tumor is considered as one of the aggressive diseases, among children an
 - Mahotas
 - Jupyter Notebook
 - Google Colab
+
+
+## Process Flow
+
+<img src="https://raw.githubusercontent.com/SagarDhandare/CDAC-DBDA-Project/main/Images/Process%20flow.png">
 
 
 ## Acknowledgement
